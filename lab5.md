@@ -17,7 +17,9 @@
    ![Screenshot 2025-03-21 105407](https://github.com/user-attachments/assets/dc06adee-0548-461c-a65d-49ae1a5b2285)
 
    (b)Kill a process by PID: kill 1234
+
    (c)Force kill a process: kill -9 1234
+   
    (d)Kill by process name: killall firefox
 
 5. top Command -> top Sort by memory usage: Press M Sort by CPU usage: Press P Kill a process: Press k → Enter the PID Exit top: Press q
