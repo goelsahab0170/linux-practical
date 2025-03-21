@@ -1,7 +1,7 @@
 1. ps Command -> (a)Display all running processes: ps aux
    ![Screenshot 2025-03-21 104545](https://github.com/user-attachments/assets/27945489-0728-4569-865d-6453e15860eb)
    
-   (b)Show processes for the current terminal session: ps
+   (b)Show processes for the current terminal session: ps 
    ![Screenshot 2025-03-21 104856](https://github.com/user-attachments/assets/ef112b42-9ef7-40f2-b9e7-080353f9a12a)
 
    (c)Display a process tree: ps -e --forest
