@@ -39,8 +39,10 @@
 
    (e)Remove package along with configuration files: sudo apt-get purge vim
    ![image](https://github.com/user-attachments/assets/a05a8d0d-1380-43a9-a1cc-b355c3370fbf)
+
    (f)Clean up unused packages: sudo apt-get autoremove
    ![image](https://github.com/user-attachments/assets/5d3447f2-f0d9-48c4-870a-8d77b58332f6)
+
    (g)Clean package cache: sudo apt-get clean
    ![image](https://github.com/user-attachments/assets/64a7edb8-07ec-4bcd-9f12-d096bdf8367f)
 
